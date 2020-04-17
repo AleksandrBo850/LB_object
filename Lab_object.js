@@ -10,7 +10,7 @@ let cityfirst = {
 };
 let citysecond = {
     name: 'Kyiv',
-    population: 403938,
+    population: 4071000,
     getName() {
         console.log(`City ${this.name}`);
     },
